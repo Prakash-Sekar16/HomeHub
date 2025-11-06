@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104508160337",
+    "project_id": "homehub-b1065",
+    "storage_bucket": "homehub-b1065.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104508160337:android:984c7fa50b605c6f067b70",
+        "android_client_info": {
+          "package_name": "com.example.homehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyniZoDHr2UdwZHi9c0FEecFpsMLGaSi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
